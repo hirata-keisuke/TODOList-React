@@ -1,2 +1,2 @@
 # TODOList-React
-Created with CodeSandbox
+Udemyの講座にて、TODOListをReactで作った
